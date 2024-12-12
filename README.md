@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![nokmarkus's Stats](https://github-readme-stats.vercel.app/api?username=nokmarkus&theme=react&show_icons=true&hide_border=true&count_private=true)
 <!--
 **NokMarkus/NokMarkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
